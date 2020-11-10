@@ -1,0 +1,41 @@
+_repo: Speeches-at-the-Constitutional-Convention-With-the-Right-of-Suffrage-Passed-by-the-Constituti__63610
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Smalls, Sarah V.
+    alias: Smalls, Sarah Voorhies
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '52471'
+    url: http://www.gutenberg.org/2009/agents/52471
+creator:
+  author:
+    agent_name: Smalls, Robert
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '52520'
+    url: http://www.gutenberg.org/2009/agents/52520
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Smalls
+description: Robert Smalls was an African American delegate to the South Carolina
+  constitutional convention of 1895. He argued against proposed restrictions on the
+  franchise and against discriminatory provisions on miscegenation and interracial
+  marriages, but lost.
+gutenberg_issued: '2020-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63610'
+  lccn: '91898223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Suffrage'
+- !lcsh 'African Americans -- Politics and government'
+- !lcsh 'South Carolina. Constitutional Convention (1895)'
+- !lcc 'E660'
+- GITenberg
+title: 'Speeches at the Constitutional Convention
+
+  With the Right of Suffrage Passed by the Constitutional Convention'
+url: http://www.gutenberg.org/ebooks/63610
